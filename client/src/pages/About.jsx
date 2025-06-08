@@ -20,7 +20,7 @@ const About = () => {
             {[
               { name: "Amin Al-Jousi", role: "Project Leader & Back-end Developer", img: assets.Amin_2 },
               { name: "Sami Jaber", role: "Front-end Developer", img: assets.Sami },
-              { name: "Hamza Abu Jeish", role: "Front-end Developer", img: assets.Hamza },
+              { name: "Hamzeh Abu Jeish", role: "Front-end Developer", img: assets.Hamza },
               { name: "Hassan Al-Shawaqfa", role: "Back-end Developer", img: assets.Hassan },
               { name: "Mona Al-Bahloul", role: "Documentation Specialist", img: assets.Mona },
               { name: "Mohannad Abu Najm", role: "Documentation Specialist", img: assets.Mohannad },
